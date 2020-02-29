@@ -1,0 +1,10 @@
+.navbar {
+  background-color: #e4e9ed;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar ul li {
+}
