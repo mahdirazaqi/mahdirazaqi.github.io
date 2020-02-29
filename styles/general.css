@@ -1,0 +1,17 @@
+body {
+  direction: rtl;
+  color: #333;
+  font-family: Vazir;
+  font-weight: normal;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
